@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzk8ZJ1zE3F5s_CNt6WPGQvpNSIkoCHwnmCeBv5I2Qs4fnUIrld5FUkZbpPR-JAqHDagw/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbx9baPcwEv7K0_Kl--XPyjGyJgt4KJBxMM0g-2vtpJXuSec3cr7L_sNqRP7yvoaCkresw/exec';
 const form = document.getElementById('absensiForm');
 const btn = document.getElementById('btnKirim');
 const pesan = document.getElementById('pesan');
